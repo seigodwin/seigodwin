@@ -1,4 +1,4 @@
-# Hi 👋, I'm Godwin
+# 🧑‍💻 About Me
 
 ### A Backend / DevOps Developer from Ghana.
 
@@ -18,11 +18,14 @@
 
 ---
 
-### 💻 Tech Stack & Architecture:
+### 🛠️ Tech Stack & Architecture:
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
@@ -30,7 +33,7 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 
 > **Architectural Concepts & Auth:**  
-> `Modular Monoliths` | `Microservices` | `OpenID Connect` | `OAuth 2.0` | `SQL`
+> `REST APIs` | `Modular Monoliths` | `Microservices` | `OpenID Connect` | `OAuth 2.0` | `SQL Databases`
 
 ---
 
