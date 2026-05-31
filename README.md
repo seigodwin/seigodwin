@@ -16,4 +16,19 @@
 - 📫 How to reach me: **seigodwin65@gmail.com**
 - ⚡ Fun fact: **I love diving into complex software and hardware-level device servicing and troubleshooting**
 
-### Connect with me:
+---
+
+### 🛠️ Tech Stack & Architecture
+
+* **Languages & Frameworks:** C#, .NET, ASP.NET Core Web APIs
+* **Architecture Styles:** Modular Monoliths, Microservices
+* **Security & Auth:** OpenID Connect, OAuth 2.0, Jwt
+* **Databases & Storage:** SQL, PostgreSQL
+* **Messaging & Caching:** RabbitMQ, Redis
+* **DevOps & Cloud:** Azure DevOps, GitHub Actions, Docker, Render, Superbase
+
+---
+
+### 📨 Connect with me:
+* **Email:** seigodwin65@gmail.com
+* **LinkedIn:** [Your LinkedIn Profile Link Here]
