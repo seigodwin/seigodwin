@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm Godwin
 
-<!--
-**seigodwin/seigodwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A Backend / DevOps Developer from Ghana.
 
-Here are some ideas to get you started:
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=seigodwin&label=Profile%20views&color=0e75b6&style=flat" alt="seigodwin" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 I am **actively looking for .NET Backend Internship opportunities**
+- 🔭 I’m currently working on **ASP.NET Core Web API & Backend projects**
+- 🤝 I’m looking to collaborate on **C#, .NET, and Azure DevOps Projects**
+- ⚡ I’m looking for help with **Cloud Infrastructure & CI/CD Pipelines**
+- 🎖️ Certified in **Backend Development, DevOps Practices, Microsoft Deployment, and SQL Data Handling**
+- 📝 All of my projects are available at [github.com/seigodwin](https://github.com/seigodwin)
+- 💬 Ask me about **Azure DevOps, CI/CD, GitHub Actions, Docker, and PostgreSQL**
+- 📫 How to reach me: **seigodwin65@gmail.com**
+- ⚡ Fun fact: **I love diving into complex software and hardware-level device servicing and troubleshooting**
+
+### Connect with me:
