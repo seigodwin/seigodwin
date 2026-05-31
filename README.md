@@ -22,13 +22,14 @@
 
 * **Languages & Frameworks:** C#, .NET, ASP.NET Core Web APIs
 * **Architecture Styles:** Modular Monoliths, Microservices
-* **Security & Auth:** OpenID Connect, OAuth 2.0, Jwt
+* **Security & Auth:** OpenID Connect, OAuth 2.0
 * **Databases & Storage:** SQL, PostgreSQL
 * **Messaging & Caching:** RabbitMQ, Redis
-* **DevOps & Cloud:** Azure DevOps, GitHub Actions, Docker, Render, Superbase
+* **DevOps & Cloud:** Azure DevOps, GitHub Actions, Docker
 
 ---
 
 ### 📨 Connect with me:
+
 * **Email:** seigodwin65@gmail.com
-* **LinkedIn:** [Your LinkedIn Profile Link Here]
+* **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/sei-godwin-b86abb28a?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
