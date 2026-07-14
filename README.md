@@ -1,15 +1,14 @@
 # 🧑‍💻 About Me
 
-### A Backend / DevOps Developer from Ghana.
+### A Backend / DevOps Developer.
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=seigodwin&label=Profile%20views&color=0e75b6&style=flat" alt="seigodwin" />
 </p>
 
-- 🚀 I am **actively looking for .NET Backend Internship opportunities**
 - 🔭 I’m currently working on **ASP.NET Core Web API & Backend projects**
 - 🤝 I’m looking to collaborate on **C#, .NET, and Azure DevOps Projects**
-- ⚡ I’m looking for help with **Cloud Infrastructure & CI/CD Pipelines**
+- ⚡ I’m looking for help with **Cloud Infrastructure & DevOps**
 - 🎖️ Certified in **Backend Development, DevOps Practices, Microsoft Deployment, and SQL Data Handling**
 - 📝 All of my projects are available at [github.com/seigodwin](https://github.com/seigodwin)
 - 💬 Ask me about **Azure DevOps, CI/CD, GitHub Actions, Docker, and PostgreSQL**
